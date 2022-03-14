@@ -1,10 +1,12 @@
 div{ 
-    border: 2px solid red;
+    border: 2px solid orange;
     border-radius: 8px;
     padding: 3px;
     width:400px;  
     border-left-style: solid;
-    border-left-width: 20px;
+    border-left-width: 13px;
+    padding-left: 10px;
+    /* padding-top: 6px; */
   }
   select{
     width:300px;
@@ -20,12 +22,16 @@ div{
   select:hover {background:rgb(49, 191, 235); color: black;}
 
   body{
-    border: 5px black;
+    /* border: 5px black; */
     border-radius: 5px;
     padding: 5px;
   }
   textarea{
     text-align: right;
     text-align-last: right;
-    a
+    
+  }
+  .inputpadding{
+    padding:10px;
+    border-radius: 7px;
   }

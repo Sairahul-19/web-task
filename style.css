@@ -1,0 +1,31 @@
+div{ 
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 3px;
+    width:400px;  
+    border-left-style: solid;
+    border-left-width: 20px;
+  }
+  select{
+    width:300px;
+  }
+  textarea{
+    width:300px;
+    height:100px
+  }
+  input[type="text"]{
+    width:300px;
+  }
+  input:hover {background:rgb(78, 197, 218); color: black;}
+  select:hover {background:rgb(49, 191, 235); color: black;}
+
+  body{
+    border: 5px black;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  textarea{
+    text-align: right;
+    text-align-last: right;
+    a
+  }
